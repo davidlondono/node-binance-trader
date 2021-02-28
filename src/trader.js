@@ -50,6 +50,7 @@ const margin_pairs = [
     "LINKBTC",
     "LTCBTC",
     "MATICBTC",
+    "MTLBTC",
     "NEOBTC",
     "ONTBTC",
     "QTUMBTC",
